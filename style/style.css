@@ -6,46 +6,6 @@
   color: rgba(0, 0, 0, 0.8980392157);
 }
 
-.uzcar {
-  margin-left: 79px;
-  font-size: 27.33px;
-  display: flex;
-}
-
-.UZ {
-  flex-grow: 0.18;
-  margin-top: 23px;
-  font-size: 27.33px;
-  word-spacing: -5px;
-  margin-right: 93px;
-}
-
-.Mahsulotlar {
-  flex-grow: 0.013;
-  text-decoration: none;
-  font-size: 22px;
-  margin-top: 31px;
-  gap: 30px;
-  display: flex;
-}
-
-.input {
-  position: relative;
-}
-
-.Yetkazib {
-  margin-right: 190px;
-}
-
-a {
-  color: black;
-}
-
-.icons {
-  margin-top: 23px;
-  margin-left: 20px;
-}
-
 .cards {
   height: 140px;
   width: 1280px;
@@ -53,7 +13,20 @@ a {
 .cards-card {
   width: 400px;
   height: 140px;
-  background-color: aqua;
+  background-color: rgb(255, 0, 17);
+}
+.cards-card-image {
+  width: 142px;
+  height: 129px;
+  float: right;
+}
+.cards-content-content {
+  width: 193px;
+  height: 69px;
+}
+.cards-content-content-image {
+  width: 142px;
+  height: 129px;
 }
 
 .products {

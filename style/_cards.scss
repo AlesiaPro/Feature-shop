@@ -5,7 +5,7 @@
     &-card {
        width: 400px;
        height: 140px;
-       background-color: aqua; 
+       background-color: rgb(255, 0, 17); 
             &-image {
             width: 142px;
             height: 129px;
@@ -16,7 +16,9 @@
         width: 193px;
         height: 69px;
         
-        &-title {
-         background-color: aqua;}
+        &-image {
+          width: 142px;
+          height: 129px;
+        }
      }   
 }
