@@ -14,12 +14,10 @@ a {
  color: black;
 }
 
-
 .header-logo {
   padding-left: 79px;
   padding-right: 93px;
 }
-
 
 .menu-list {
 padding-right:  33px;
@@ -38,14 +36,13 @@ padding-right:  33px;
   background-image: url(../images/back.png);
   background-repeat: no-repeat;
   background-position: 104%; 
-
 }
+
 .cards-text{
   font-family: DM Sans;
   font-size: 41px;
   margin-left: 42px;
   padding-top: 141px;
-
 }
 
 .cards-text2 {
@@ -53,7 +50,6 @@ padding-right:  33px;
   font-size: 28px;
   margin-left: 42px;
   padding-top: 10px;
-
 }
 
 .cards-serch{
@@ -61,7 +57,6 @@ padding-right:  33px;
   font-size: 28px;
   border: 2px; 
   border-width: 514px; 
-  
 }
 
  .cards-serch-put {
@@ -83,6 +78,7 @@ padding-right:  33px;
 .block {
 display: flex;
 }
+
 .card1 {
   width: 400px;
   margin-top: 40px;
@@ -94,7 +90,6 @@ display: flex;
 
 .card1-picture1 {
   padding-top: 15px;
-  
 }
 
 .card1-text {
@@ -125,4 +120,41 @@ display: flex;
   border-radius: 5px;
   background-color: #F2F2F2;
   display: flex;
+  
+}
+
+.menu-button {
+  height: 732px;
+  width: 380px;
+  border-radius: 5px;
+  background-color: #F7F7F7;
+  font-size: 22px;
+  margin-top: 80px;
+  margin-left: 79px;
+  padding-top: 30px;
+  padding-left: 20px;
+
+}
+
+.btn-border{
+  border: none;
+}
+
+.menu-button-buttons {
+  height: 76px;
+  width: 358px;
+  border-radius: 5px;
+}
+
+.menu-button-buttons:hover {
+  background-color: blue;
+}
+
+.price {
+  height: 356px;
+  width: 278px;
+  border-radius: 5px;
+  background-color: aqua;
+  display: flex;
+
 }
