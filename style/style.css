@@ -4,37 +4,81 @@
   margin-top: 0;
   font-family: sans-serif;
   color: rgba(0, 0, 0, 0.8980392157);
+  display: flex;
+  gap: 32px;
+  align-items: center;
 }
 
+a {
+ text-decoration: none;
+ color: black;
+}
+
+
+.header-logo {
+  padding-left: 79px;
+  padding-right: 93px;
+}
+
+
+.menu-list {
+padding-right:  33px;
+}
+
+.menu-list-list {
+ margin-right: 235px;
+}
+ 
 .cards {
-  height: 140px;
-  width: 1280px;
+  height: 600px;
+  width: 1281px;
+  border-radius: 10px;
+  background-color: #F5F5F5;
+  margin-left: 79px;
+  background-image: url(../images/back.png);
+  background-repeat: no-repeat;
+  background-position: 104%; 
+
 }
-.cards-card {
-  width: 400px;
-  height: 140px;
-  background-color: rgb(255, 0, 17);
-}
-.cards-card-image {
-  width: 142px;
-  height: 129px;
-  float: right;
-}
-.cards-content-content {
-  width: 193px;
-  height: 69px;
-}
-.cards-content-content-image {
-  width: 142px;
-  height: 129px;
+.cards-text{
+  font-family: DM Sans;
+  font-size: 41px;
+  margin-left: 42px;
+  padding-top: 141px;
+
 }
 
-.products {
-  border: 60px;
-  color: chocolate;
+.cards-text2 {
+  font-family: DM Sans;
+  font-size: 28px;
+  margin-left: 42px;
+  padding-top: 10px;
+
 }
-.products-menu {
-  border: 50px;
-  color: aqua;
-  background-color: aquamarine;
-}/*# sourceMappingURL=style.css.map */
+
+.cards-serch{
+  font-family: DM Sans;
+  font-size: 28px;
+  border: 2px; 
+  border-width: 514px; 
+  
+}
+
+ .cards-serch-put {
+  width: 514px;
+  height: 62px;
+  margin-top: 30px;
+  margin-left: 42px;
+  border-radius: 10px;
+  border-color: #F5F5F5;
+  padding-left: 17px;
+  padding-top: 20px;
+  padding-bottom: 19px;
+}
+
+.cards-picture {
+  margin-left: 640px;
+}
+
+
+ 
