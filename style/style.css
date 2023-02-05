@@ -80,5 +80,49 @@ padding-right:  33px;
   margin-left: 640px;
 }
 
+.block {
+display: flex;
+}
+.card1 {
+  width: 400px;
+  margin-top: 40px;
+  margin-left: 79px;
+  border-radius: 5px;
+  background-color: #F2F2F2;
+  display: flex;
+}
 
+.card1-picture1 {
+  padding-top: 15px;
+  
+}
+
+.card1-text {
+  font-size: 18px;
+  margin-left: 15px;
+  margin-top: 36px;
+}
+
+.card1-txt2 {
+  font-size: 14px;
+  color: #00000099;
+  margin-left: 15px;
+}
  
+.card2 {
+  width: 400px;
+  margin-top: 40px;
+  margin-left: 25px;
+  border-radius: 5px;
+  background-color: #F2F2F2;
+  display: flex;
+}
+
+.card3 {
+  width: 435px;
+  margin-top: 40px;
+  margin-left: 25px;
+  border-radius: 5px;
+  background-color: #F2F2F2;
+  display: flex;
+}
