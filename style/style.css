@@ -151,10 +151,32 @@ display: flex;
 }
 
 .price {
-  height: 356px;
-  width: 278px;
-  border-radius: 5px;
-  background-color: aqua;
-  display: flex;
-
+  
 }
+
+.price-image {
+  margin-left: 75px;
+ padding-top: 25px;
+}
+.price-image-two {
+margin-left: px;
+font-size: 900px;
+}
+
+.price-text-one {
+font-size: 17px;
+font-family: DM Sans; 
+margin-left: 20px;
+margin-top: 20px;
+}
+
+.price-text-two {
+ font-family: Roboto; 
+ font-size: 20px;
+ justify-content: center;
+ color:#4200FF;
+ margin-left: 83px;
+}
+
+
+
