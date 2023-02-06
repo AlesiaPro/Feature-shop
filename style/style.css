@@ -134,6 +134,7 @@ display: flex;
   padding-top: 30px;
   padding-left: 20px;
 
+
 }
 
 .btn-border{
@@ -151,7 +152,12 @@ display: flex;
 }
 
 .price {
-  
+  height: 356px;
+  width: 278px;
+  border-radius: 5px;
+  background-color: aqua; 
+  box-shadow: 0px 4px 30px 0px #0000001A;
+
 }
 
 .price-image {
